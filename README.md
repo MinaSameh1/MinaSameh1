@@ -35,5 +35,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 </div>
 
+<!--
 ### :eyes: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MinaSameh1&theme=tokyonight)](https://git.io/streak-stats)
+
+
+-->
