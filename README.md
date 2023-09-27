@@ -36,11 +36,4 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 ### :eyes: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MinaSameh1&theme=tokyonight)](https://git.io/streak-stats)
-
-
-
-<!---
-MinaSameh1/MinaSameh1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MinaSameh1&theme=tokyonight)](https://git.io/streak-stats)
