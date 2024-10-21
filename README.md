@@ -12,7 +12,7 @@
 ### :man_technologist: About Me :
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- :telescope: I’m currently working at Mahaseel Masr as a Nodejs backend developer.
+- :telescope: I’m currently working at Soar as a backend developer.
 
 - :zap: In my free time, I read tech articles, if you have a good one send it my way.
 
